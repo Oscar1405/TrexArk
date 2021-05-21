@@ -1,2 +1,2 @@
 # TrexArk
-juego de Trex creado en P5
+juego de Trex
